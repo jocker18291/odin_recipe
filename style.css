@@ -1,7 +1,13 @@
-* {
+h1 {
     font-family: fantasy;
+    color: darkblue;
 }
 
-h1 {
-    color: blue;
+h2 {
+    font-family: cursive;
+    font-weight: bold;
+}
+
+p, ul, li {
+    font-family: sans-serif;
 }
